@@ -1,3 +1,4 @@
+> 这是 Spring Boot 的官方库 2.1.0 RELEAASE 的镜像，已经经过一部分的配置，直接 git clone 下来能够直接编译、运行。
 = Spring Boot image:https://ci.spring.io/api/v1/teams/spring-boot/pipelines/spring-boot/jobs/build/badge["Build Status", link="https://ci.spring.io/teams/spring-boot/pipelines/spring-boot?groups=Build"] image:https://badges.gitter.im/Join Chat.svg["Chat",link="https://gitter.im/spring-projects/spring-boot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
 :docs: https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference
 
